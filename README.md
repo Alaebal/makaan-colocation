@@ -1,5 +1,3 @@
-# makaan-colocation
-Makaan is a real estate web application designed to help users find, list, and manage properties for sale or rent in a simple and user-friendly way.
 # 🏠 Makaan — Real Estate Listing Platform
 
 A full-stack real estate web application for browsing, listing, and managing properties. Built with PHP and MySQL, it features a clean public-facing interface for visitors and a secure admin panel for property management.
@@ -8,7 +6,8 @@ A full-stack real estate web application for browsing, listing, and managing pro
 
 ## 📸 Preview
 
->![Uploading image.png…]()
+<img width="1857" height="842" alt="image" src="https://github.com/user-attachments/assets/1707852c-7ea0-4f16-a368-47f57b958435" />
+
 
 
 ---
